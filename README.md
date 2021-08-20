@@ -1,5 +1,6 @@
 # Sami Heros
-Teste - Front-End Software Engineer
+Teste Admissional - Front-End Software Engineer
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Regras
 O teste deve ser feito utilizando ReactJs. Utilizar Redux será um diferencial.
